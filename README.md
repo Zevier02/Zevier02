@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zevier02
-- 👀 I’m interested in discord bot and Unity games.
+- 👀 I’m interested in discord bot node.js and HTML/CSS/JS.
 - 🌱 I’m currently learning how to create a discord bot and the Java Script code langage.
 
 <!---
