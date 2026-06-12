@@ -25,9 +25,9 @@
 
 ## 🖥️ What i use ?
 - My setup : https://www.topachat.com/setup/Zevier.
-- OS : Devuan.
+- OS : [Devuan](https://www.devuan.org/).
 - Developing : [VS Codium](https://github.com/VSCodium/vscodium).
 
 ## 📫 How to contact me ?
 - You can send me a mail at zevier@zevier.fr or zevier02@proton.me.
-- You can add me on Discord : zevier.
+- You can add me on Discord at zevier.
