@@ -1,4 +1,4 @@
-<img src="https://zevier.fr/images/banner.png" height=150>
+<img src="https://zevier.fr/images/banner.png">
 
 # 👋 Hi, i'm Zevier !
 
