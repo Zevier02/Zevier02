@@ -6,7 +6,7 @@
 - I'm a french dev and i started coding in 2019.
 - I've started with discord bots using node.js, so i primarily code in JavaScript.
 - I made projects like [Discraft Z](https://github.com/Zevier02/DiscraftZ-v2), [Bot Crêpe](https://github.com/Zevier02/bot-crepe) or even my [own Website](https://zevier.fr) showing my web projects.
-- I also code a little in python and i learnt the basics of C++.
+- I also code a little in python and i learned the basics of C++.
 
 ## ❤️ What i like ?
 - I'm interested in tech (really ?) and coding because i like seeing my projects growing and the satisfaction of making something that works.
