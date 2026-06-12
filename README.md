@@ -12,7 +12,7 @@
 - I'm interested in tech (really ?) and coding because i like seeing my projects growing and the satisfaction of making something that works.
 - I'm more attracted with back-end developing but while i only used node.js in backend i need to get more experience.
 - I'm passionate about mathematics.
-- I like playing mainly rythm games like Osu! or Geomtry Dash (even if i dropped now) and watch animes.
+- I like playing mainly rythm games like [Osu!](https://osu.ppy.sh/users/30031700) or Geomtry Dash (even if i dropped now) and [watch animes](https://myanimelist.net/profile/Thevier).
 
 ## 🎯 What do i want ?
 - I want to get enough discipline to finish some of my projects like Discraft Z.
