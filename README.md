@@ -30,4 +30,5 @@
 
 ## 📫 How to contact me ?
 - You can send me a mail at zevier@zevier.fr or zevier02@proton.me.
+- I'm available at **@zevier:matrix.org**.
 - You can add me on Discord with **zevier**.
